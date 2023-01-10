@@ -1,0 +1,88 @@
+.subjects{
+    text-align: center;
+}
+.herotext{
+    color: #287FEB;
+    font-family: 'Nunito Sans';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 66px;
+    line-height: 120%;
+    
+}
+
+.incidunt{
+    color: #1B1D1F;
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 150%;
+}
+
+.subjectButton{
+    height: 40px;
+    width: 200px;
+    font-size: 16px;
+    margin-right: 20px;
+    background: #6973DB;
+    color: white;
+    border-radius: 10px;
+    cursor: pointer;
+    margin-bottom: 20px;
+}
+
+.subjectButton :active{
+    background:yellow;
+}
+
+.subjectPosts{
+    display: flex;
+    
+ }
+
+.subjectpost{
+    background-color: lightgrey;
+    border-radius: 10px;
+    display: absolute;
+    width: 410px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    margin-left: 70px;
+}
+
+.subjectImg{
+    width: 400px;
+    height: 320px;
+    border-radius: 10px;
+}
+
+.subjectCode{
+    color: #287FEB;
+    text-align: left;
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 150%;
+    margin-top: 2px;
+    font-size: 26px;
+}
+
+.subjectTitle{
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 150%;
+    margin-top: 2px;
+    text-align: left;
+    font-size: 22px;
+}
+
+.subjectLearnmore{
+    left: 60.53%;
+    right: 4.12%;
+    top: 85.52%;
+    bottom: 5.18%;
+    background: #6973DB;
+    border-radius: 10px;
+    color: white;
+    cursor: pointer;
+}

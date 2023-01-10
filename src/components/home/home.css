@@ -1,0 +1,60 @@
+.home{
+    text-align: center;
+    height: 720px;
+}
+
+.herotext{
+    color: #287FEB;
+    font-family: 'Nunito Sans';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 66px;
+    line-height: 120%;
+    
+}
+
+.incidunt{
+    color: #1B1D1F;
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 150%;
+}
+.buttons{
+    color: white;
+    align-items: center;
+}
+
+.buttonstracks{
+    width: 102px;
+    height: 47px;
+    font-size: 18px;
+    margin-right: 20px;
+    background: #6973DB;
+    color: white;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.buttonssubjects{
+    width: 102px;
+    height: 47px;
+    font-size: 18px;
+    margin-right: 20px;
+    background: #6973DB;
+    color: white;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.buttonslatest{
+    width: 105px;
+    height: 47px;
+    font-size: 18px;
+    margin-right: 20px;
+    background: #6973DB;
+    color: white;
+    border-radius: 10px;
+    cursor: pointer;
+}

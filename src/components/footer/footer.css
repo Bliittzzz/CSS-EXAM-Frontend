@@ -1,0 +1,68 @@
+.row{
+    display:  flex;
+    align-items: center;
+    align-content: center;
+    align-self: center;
+}
+.col{
+    margin-left: 10px;
+    display: flex;
+}
+.colleft{
+    margin-left: 10px;
+    margin-right: 360px;
+}
+
+.footer{
+    height: 200px;
+    background-color: #287FEB;
+    width: 100%;
+}
+.logo{
+    margin-top: 10px;
+    width: 100px;
+    height: 100px;
+    margin-bottom:2px ;
+}
+.footerAuthor{
+    color: white;
+    font-weight: 700;
+    font-size: 24px;
+    margin-bottom:2px ;
+}
+.footerText{
+    color:#287FEB;
+    margin-top: 0px;
+    background-color: white;
+    border-radius: 10px;
+    width: 325px;
+}
+
+.colright{
+    margin-right: 120px;
+}
+
+.footerInfoTitle{
+    font-size: 18px;
+    color: white;
+}
+
+.footerInfos{
+    list-style: none;
+    color: white;
+    font-size: 16px;
+}
+
+.Socials{
+    list-style: none;
+    cursor: pointer;
+    color: white;
+    font-size: 16px;
+    line-height: 24px;
+    font-family: 'Nunito'serif;
+}
+
+.footerSocialIcons{
+    color: white;
+    margin-right: 5px;
+}

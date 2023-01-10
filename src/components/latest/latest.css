@@ -1,0 +1,38 @@
+.latest{
+    text-align: center;
+    
+}
+.herotext{
+    color: #287FEB;
+    font-family: 'Nunito Sans';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 66px;
+    line-height: 120%;
+    
+}
+
+.incidunt{
+    color: #1B1D1F;
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 150%;
+}
+
+.latestPost{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+.post{
+    width: 350px;
+}
+
+.latestImg{
+    width: 200px;
+    height: 300px;
+    color: white;
+}

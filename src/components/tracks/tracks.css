@@ -1,0 +1,73 @@
+.tracks{
+    text-align: center;
+    height: 720px;
+
+}
+
+.tracksTitle{
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 52px;
+    line-height: 150%;
+    align-items: center;
+    color: #287FEB;
+}
+
+.tracksDiff{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    
+}
+
+.tracksImg{
+    width: 150px;
+    height: 100px;
+}
+
+.tracksDataSci{
+    margin-left: 250px;
+}
+
+.tracksCS{
+    margin-left: 50px;
+}
+
+.tracksGame{
+    margin-left: 50px;
+}
+
+.tracksInfo{
+    width: 300px;   
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 150%;
+    text-align: center;
+}
+
+.tracksDetails{
+    width: 300px;
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 150%;
+    display: flex;
+    color: #72787F;
+    line-clamp: 2;
+}
+
+.tracksButtons{
+    width: 105px;
+    height: 47px;
+    font-size: 12px;
+    margin-right: 20px;
+    background: #6973DB;
+    color: white;
+    border-radius: 10px;
+    cursor: pointer;
+    outline: none;
+}
